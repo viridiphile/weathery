@@ -25,6 +25,6 @@ The ```js``` folder has all the files regarding js. Tha content of the page and 
 ```iconMap.js``` file handles the icon codes from https://openweathermap.org/ and sets up appropriate icon code with corresponding icon name.
 ```index.js``` file imports all the previous js files and sets up the workflow of the app.
 
-For this project, I learned more on how to work with DOM tree and promises, researched for a suitable API. I didn't have a partner and worked on the project by myself, mainly googling.
+For this project, I learned more on how to work with DOM tree and promises, researched for a suitable API. I didn't have a partner and worked on the project by myself.
 
 This was Weathery.
